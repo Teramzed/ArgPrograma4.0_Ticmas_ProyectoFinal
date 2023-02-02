@@ -18,7 +18,7 @@ get_id_set_func(
     "icon_perfil_pro",
     "perfil_pro",
     `Soy un desarrollador web que busca expandir sus conocimientos en un entorno de proyectos y compañeros con el mismo objetivo. Ser autocrítico me garantiza como persona confiable y honesta, con facilidad para la comunicación interpersonal y resolver problemas de gran complejidad.
-    Mis habilidades están en progreso, pero me decanto por el desarrollo full-stack. Manejo conocimientos de nivel medio de HTML5, CSS3, Javascript y Bootstrap. Tengo algo de experiencia en el manejo de Bases de Datos MYSQL y SQlite3. Puedo hacer coding en Python y también desarrollar
+    Mis habilidades están en progreso, pero me decanto por el desarrollo full-stack. Manejo conocimientos de nivel medio de HTML5, CSS3, Javascript y Bootstrap. Tengo algo de experiencia en el manejo de Bases de Datos MYSQL y SQLite3. Puedo hacer coding en Python y también desarrollar
     con el framework Django. Mi objetivo último es aprender todo lo que sea capaz en el mundo de la programación web. Mi rápido aprendizaje fluido afirma mi proactividad y mis ánimos para absorver grandes cantidades de conocimientos.`,
     "Perfil profesional"
 )
