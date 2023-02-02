@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Spectral', serif;
+}
+
+/* Estilos por etiqueta */
+body {
+    background: rgb(144, 34, 195);
+    background: linear-gradient(35deg, rgb(195, 34, 55) 23%, rgb(68, 3, 106) 100%) fixed;
+    color: #fff;
+}
+
+li {
+    list-style: none;
+}
+
+/* Estilos por id */
+#cv {
+    background-color: rgb(95, 42, 219);
+}
+
+#miFoto {
+    height: 250px;
+    border-radius: 150px;
+}
+
+/* Clases */
+.bg-color {
+    background: linear-gradient(35deg, rgb(243, 136, 136) 33%, rgb(191, 122, 247) 90%) fixed;
+    color: black;
+}
+
+.border-o {
+    border-top-style: outset;
+    border-width: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: rgb(46, 70, 105);
+}
+
+.espacio {
+    height: 15px;
+}
+
+.justify {
+    text-align: justify;
+}

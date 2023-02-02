@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+/*Estilo por etiqueta*/
+
+body {
+    background: rgb(144, 34, 195);
+    background: linear-gradient(35deg, rgb(195, 34, 55) 23%, rgb(68, 3, 106) 100%) fixed; 
+    color: rgb(106, 166, 255);
+}
+
+h1 {
+    text-shadow: 2px 2px 5px rgb(45, 129, 255);
+}
+
+/*Estilo por clase*/
+#ir_cv {
+    background-color: rgb(144, 34, 195);
+    border-radius: 5px;
+    color: lightskyblue;
+    transition: background-color .5s;
+    transition: color .5s;
+}
+
+#ir_cv:hover {
+    background-color: rgb(117, 48, 156);
+    color: white;
+}
+
+#ir_a {
+    border: 2px solid rgb(252, 88, 252);
+    border-radius: 20px;
+}
+
+/*Clases*/
+.espacio {
+    height: 350px;
+}
